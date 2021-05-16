@@ -15,7 +15,7 @@ Hello, World! 🌎
 <img src="https://media.giphy.com/media/L13NsH0Aij4Sf2Gdjt/giphy.gif"/>
 </div>
 
-<h2>Let me introduce myself.😎</h2> 
+<h2>~ 𝓛𝓮𝓽 𝓶𝓮 𝓲𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓮 𝓶𝔂𝓼𝓮𝓵𝓯 😎 ~</h2> 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BibhushanKarki)
 
@@ -25,11 +25,11 @@ Hello, World! 🌎
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and watch anime! 🤣
 
-## Spotify Playing 🎧
+## 𝓢𝓹𝓸𝓽𝓲𝓯𝔂 𝓟𝓵𝓪𝔂𝓲𝓷𝓰 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Bibhushan's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-## Connect with me:
+## 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:
 
 <p>
  </br>
@@ -37,7 +37,7 @@ Hello, World! 🌎
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑𝖐 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
 
 <a href="mailto:bibhushan.karki11@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
@@ -61,7 +61,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br />
 <br />
 
-## Languages and Tools:
+## 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
