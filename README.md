@@ -19,7 +19,7 @@ Hello, World! 🌎
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BibhushanKarki)
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="350" width="450" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 - 🔭 I’m currently working on <a style="color: #2ecc71;" href="https://hashtechnologies.net/" target="_blank">Hash Technologies</a>
 - 🌱 I’m currently learning everything 🤣
@@ -36,7 +36,7 @@ Hello, World! 🌎
 <p>
  </br>
 
-<img hight="300" width="430" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑𝖐 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
 
