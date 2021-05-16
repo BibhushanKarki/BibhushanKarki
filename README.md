@@ -77,7 +77,8 @@ Hello, World! 🌎
 
   <img align="left" alt="Bibhushan's GitHub Stats" src="https://github-readme-stats-bibhushankarki.vercel.app//api?username=BibhushanKarkir&show_icons=true&hide_border=true&theme=dracula" />
 
-
-
-[instagram]: https://www.instagram.com/bibhushan_karkee/
-[linkedin]: https://www.linkedin.com/in/bibhushan-karki-3184b013a/
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="left">
+<img src="https://media1.tenor.com/images/0d31af83a215a5659f0aa7974d8d9b5c/tenor.gif?itemid=14973267">
+</div>
+<hr>
