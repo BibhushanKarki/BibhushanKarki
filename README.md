@@ -17,7 +17,7 @@ Hello, World! 🌎
 
 <h2>~ 𝓛𝓮𝓽 𝓶𝓮 𝓲𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓮 𝓶𝔂𝓼𝓮𝓵𝓯 😎 ~</h2> 
 
-<img hight="250" width="360" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="280" width="400" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BibhushanKarki)
 
