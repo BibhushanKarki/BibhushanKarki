@@ -17,7 +17,7 @@ Hello, World! 🌎
 
 <h2>~ 𝓛𝓮𝓽 𝓶𝓮 𝓲𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓮 𝓶𝔂𝓼𝓮𝓵𝓯 😎 ~</h2> 
 
-<img hight="280" width="400" alt="GIF" align="right" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/master/assets/1936.gif">
+<img hight="280" width="400" alt="GIF" align="right" src="https://github.com/BibhushanKarki/BibhushanKarki/assets/1936.gif">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BibhushanKarki)
 
@@ -38,24 +38,24 @@ Hello, World! 🌎
 <p>
  </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/BibhushanKarki/BibhushanKarki/assets/93195.gif">
 
 𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑𝖐 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
 
 <a href="mailto:bibhushan.karki11@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/bibhushan-karki-3184b013a/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://www.reddit.com/user/BibhushanKarki">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/master/assets/icons/reddit.png" />
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/assets/icons/reddit.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198261087242/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/assets/icons/steam.png" />
 </a>
  </p>
 <br />
