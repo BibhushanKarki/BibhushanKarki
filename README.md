@@ -19,6 +19,8 @@ Hello, World! 🌎
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BibhushanKarki)
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
 - 🔭 I’m currently working on <a style="color: #2ecc71;" href="https://hashtechnologies.net/" target="_blank">Hash Technologies</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
