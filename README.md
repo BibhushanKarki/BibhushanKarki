@@ -75,7 +75,7 @@ Hello, World! 🌎
 <br />
 
 
-<img align="left" alt="Bibhushan's GitHub Stats" src="https://github-readme-stats-bibhushankarki.vercel.app//api?username=BibhushanKarkir&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="Bibhushan's GitHub Stats" src="https://github-readme-stats-bibhushankarki.vercel.app//api?username=BibhushanKarki&show_icons=true&hide_border=true&theme=dracula" />
 <br/>
 <br/>
 <br/>
