@@ -75,10 +75,13 @@ Hello, World! 🌎
 <br />
 <br/>
 
-<img align="left" alt="Bibhushan's GitHub Stats" src="https://github-readme-stats-bibhushankarki.vercel.app//api?username=BibhushanKarki&show_icons=true&hide_border=true&theme=dracula" />
-<br/>
-<br/>
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibhushanKarki&hide=TeX&layout=compact&theme=tokyonight&show_icons=true" />
+<div align="left">
+<img alt="Bibhushan's GitHub Stats" src="https://github-readme-stats-bibhushankarki.vercel.app//api?username=BibhushanKarki&show_icons=true&hide_border=true&theme=dracula" />
+</div>
+
+<div align="left">
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibhushanKarki&hide=TeX&layout=compact&theme=tokyonight&show_icons=true" />
+</div>
 <br/>
 <br/>
 <br/>
