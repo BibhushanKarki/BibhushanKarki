@@ -80,7 +80,7 @@ Hello, World! 🌎
 </div>
 <br/>
 <div align="left">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibhushanKarki&hide=TeX&layout=compact&theme=tokyonight&show_icons=true" />
+<img alt="Most Used Languages" src="https://github-readme-stats-bibhushankarki.vercel.app/api/top-langs/?username=BibhushanKarki&hide=TeX&layout=compact&theme=tokyonight&show_icons=true" />
 </div>
 <br/>
 <h2 align="left">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
