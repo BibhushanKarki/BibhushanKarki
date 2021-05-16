@@ -1,9 +1,9 @@
 <h1 align="left">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <div style="text-align: center">
-<h1>
+<h2>
 Hello, World! 🌎 
 <br/>I'm Bibhushan Karki 👋
-</h1>
+</h2>
 <a href="https://twitter.com/BibhushanKarki1">
   <img align="left" alt="Bibhushan | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
