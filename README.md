@@ -15,7 +15,8 @@ Hello, World! 🌎
 <a href="https://discord.gg/Q64a82kC">
   <img align="left" alt="Bibhushan's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
- <br>
+<br/>
+<br/>
 <img src="https://media.giphy.com/media/L13NsH0Aij4Sf2Gdjt/giphy.gif"/>
 </div>
 
