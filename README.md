@@ -12,7 +12,7 @@ Hello, World! 🌎
 </a>
 <br/>
 <br/>
-<img src="https://media.giphy.com/media/L13NsH0Aij4Sf2Gdjt/giphy.gif"/>
+<img hight="350" width="500" src="https://media.giphy.com/media/L13NsH0Aij4Sf2Gdjt/giphy.gif"/>
 </div>
 
 <h2>~ 𝓛𝓮𝓽 𝓶𝓮 𝓲𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓮 𝓶𝔂𝓼𝓮𝓵𝓯 😎 ~</h2> 
