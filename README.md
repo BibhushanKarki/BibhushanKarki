@@ -17,9 +17,9 @@ Hello, World! 🌎
 
 <h2>~ 𝓛𝓮𝓽 𝓶𝓮 𝓲𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓮 𝓶𝔂𝓼𝓮𝓵𝓯 😎 ~</h2> 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BibhushanKarki)
-
 <img hight="250" width="350" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BibhushanKarki)
 
 - 🔭 I’m currently working on <a style="color: #2ecc71;" href="https://hashtechnologies.net/" target="_blank">Hash Technologies</a>
 - 🌱 I’m currently learning everything 🤣
