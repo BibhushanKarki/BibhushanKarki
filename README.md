@@ -31,7 +31,7 @@ Hello, World! 🌎
 
 ## 𝓢𝓹𝓸𝓽𝓲𝓯𝔂 𝓟𝓵𝓪𝔂𝓲𝓷𝓰 🎧
 
-[<img src="https://novatorem-bibhushankarki.vercel.app/api/spotify-playing" alt="Bibhushan's Spotify Playing" width="350" />](https://open.spotify.com/user/31lade5th3tziccmsse7425vabyq)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Bibhushan's Spotify Playing" width="350" />](https://open.spotify.com/user/31lade5th3tziccmsse7425vabyq)
 
 ## 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:
 
