@@ -12,7 +12,7 @@ Hello, World! 🌎
 </a>
 <br/>
 <br/>
-<img width="450" height="250" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/main/assets/joey.gif"/>
+<img width="450" height="300" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/main/assets/joey.gif"/>
 </div>
 
 <h2>~ 𝓛𝓮𝓽 𝓶𝓮 𝓲𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓮 𝓶𝔂𝓼𝓮𝓵𝓯 😎 ~</h2> 
