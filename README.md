@@ -82,7 +82,7 @@ Hello, World! 🌎
 <img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Jira" width="30px" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.pngg" />
+<img align="left" alt="Jira" width="30px" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" />
 <img align="left" alt="Postman" width="30px" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png" />
 <img align="left" alt="npm" width="30px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
 <img align="left" alt="yarn" width="30px" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" />
