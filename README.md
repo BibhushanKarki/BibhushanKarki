@@ -21,7 +21,7 @@ Hello, World! 🌎
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BibhushanKarki)
 
-- 🔭 I’m currently working on <a style="color: #2ecc71;" href="https://ebpearls.com.au/" target="_blank">EB Pearlss</a>
+- 🔭 I’m currently working on <a style="color: #2ecc71;" href="https://www.takeo.ai/" target="_blank">Takeo</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Keep grinding!
