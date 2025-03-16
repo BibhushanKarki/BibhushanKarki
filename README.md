@@ -24,7 +24,7 @@ Hello, World! 🌎
 - 🔭 I’m currently working at <a style="color: #2ecc71;" href="https://www.takeo.ai/" target="_blank">Takeo</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Keep grinding!
+- 🥅 2025 Goals: Keep grinding!
 - ⚡ Fun fact: I love to play games and watch anime! 🤣
 
 <br/>
@@ -40,7 +40,7 @@ Hello, World! 🌎
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/main/assets/93195.gif">
 
-𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑𝖐 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
+𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑k 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
 
 <a href="mailto:bibhushan.karki11@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/BibhushanKarki/BibhushanKarki/blob/main/assets/icons/gmail.png" />
