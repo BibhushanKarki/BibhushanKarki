@@ -97,7 +97,7 @@ Hello, World! 🌎
 <img align="left" alt="Webpack" width="40px" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" />
 <img align="left" alt="Docker" width="40px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
 <img align="left" alt="GCP" width="40px" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" />
-<img align="left" alt="AWS" width="40px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
+<img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Light.svg" />
 </div>
 <br />
 <br />
